@@ -1,0 +1,18 @@
+.footer__copyright {
+  font-size: 14px;
+  line-height: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: end;
+  margin-top: 2px;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .footer__copyright {
+    line-height: 14px;
+    margin-top: 48px;
+    text-align: left;
+  }
+}
