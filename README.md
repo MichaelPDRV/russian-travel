@@ -10,9 +10,9 @@
 
 
 ## Реализация
-Медиазапросы
-Grid Layout
-Flexbox-вёрстка
+* Медиазапросы
+* Grid Layout
+* Flexbox-вёрстка
 
 ## Ссылка на сайт:
 https://MichaelPDRV.github.io/russian-travel/
