@@ -8,6 +8,7 @@
   background-size: cover;
   position: relative;
   background-position: center;
+  color: white;
 }
 
 .cover::before {
