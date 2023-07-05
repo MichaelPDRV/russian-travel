@@ -8,7 +8,9 @@
   background-size: cover;
   position: relative;
   background-position: center;
-  color: white;
+  display: grid;
+  grid-template-rows: min-content min-content;
+  align-content: center;
 }
 
 .cover::before {
